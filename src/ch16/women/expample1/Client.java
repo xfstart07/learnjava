@@ -1,4 +1,4 @@
-package ch16.women;
+package ch16.women.expample1;
 
 import java.util.ArrayList;
 import java.util.Random;

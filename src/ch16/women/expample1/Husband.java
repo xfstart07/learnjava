@@ -1,4 +1,4 @@
-package ch16.women;
+package ch16.women.expample1;
 
 public class Husband implements IHandler {
     @Override
