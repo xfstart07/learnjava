@@ -1,4 +1,4 @@
-package javakernel.ch4.v1;
+package corejava.ch4.v1;
 
 import java.time.LocalDate;
 

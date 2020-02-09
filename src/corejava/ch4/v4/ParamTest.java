@@ -1,4 +1,4 @@
-package javakernel.ch4.v4;
+package corejava.ch4.v4;
 
 // 方法参数传递
 public class ParamTest {
@@ -9,7 +9,6 @@ public class ParamTest {
         System.out.println("Before: precent: " + precent);
         tripleValue(precent);
         System.out.println("After: precent: " + precent);
-
 
         System.out.println("\nTesting tripleSalary:");
         Employee harry = new Employee("Harry", 5000);
